@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "FANCY -Japanese ver.-",
+  "base_artist": "TWICE",
+  "createdAt": "2025-12-26T02:08:23.465932Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FANCY -Japanese ver.-",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/01_FANCY_-Japanese_ver.-_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FANCY -Japanese ver.-",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/02_FANCY_-Japanese_ver.-_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FANCY -Japanese ver.- - FANCY (Japanese Version)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/03_FANCY_-Japanese_ver.-_-_FANCY_(Japanese_Version)_TWICE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FANCY -Japanese ver.-",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_FANCY_-Japanese_ver.-_TWICE.txt"
+    }
+  ]
+}
